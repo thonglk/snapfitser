@@ -37,7 +37,7 @@
     "firebase-admin": "^4.1.1",
     "flat": "^4.0.0",
     "google-auth-library": "^0.11.0",
-    "googleapis": "^22.1.0",
+    "googleapis": "^39.1.0",
     "json2csv": "^3.11.0",
     "mandrill-api": "^1.0.45",
     "mongo": "^0.1.0",
